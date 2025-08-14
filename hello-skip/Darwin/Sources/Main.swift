@@ -28,6 +28,9 @@ private typealias AppDelegate = HelloSkipAppDelegate
     }
 }
 
+
+
+
 #if canImport(UIKit)
 typealias AppDelegateAdaptor = UIApplicationDelegateAdaptor
 typealias AppMainDelegateBase = UIApplicationDelegate
